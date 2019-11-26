@@ -6,8 +6,6 @@ The project is to classify images of snakes by species. This was a challenge put
 
 We only use the labelled training set for our project, which can be downloaded [here](https://s3.eu-central-1.amazonaws.com/aicrowd-static/datasets/snake-species-identification-challenge/train.tar.gz).
 
-[]
-
 ## Required packages
 All code is written in Python and can be found in the [Jupyter Notebook](https://github.com/nishai/snake-classification-with-CNNs/blob/master/Snake%20Identification.ipynb) in the repository.
 
