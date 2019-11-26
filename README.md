@@ -10,18 +10,20 @@ We only use the labelled training set for our project, which can be downloaded [
 All code is written in Python and can be found in the [Jupyter Notebook](https://github.com/nishai/snake-classification-with-CNNs/blob/master/Snake%20Identification.ipynb) in the repository.
 
 The following python packages are required:
-* numpy
-* seaborn
-* pandas
-* matplotlib
-* torch
-* torchvision
-* opencv-python
-* PIL
-* fastai
-* scikit-learn
-* pylab
-* tqdm
+
+* `numpy`
+* `seaborn`
+* `pandas`
+* `matplotlib`
+* `torch`
+* `torchvision`
+* `opencv-python`
+* `PIL`
+* `fastai`
+* `scikit-learn`
+* `pylab`
+* `tqdm`
+
 
 We also recommend a using a device with a Cuda-compatible GPU to train the models.
 
